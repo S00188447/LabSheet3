@@ -32,7 +32,7 @@ namespace Ex1
                 c1.Accelerate();
             }
 
-            Console.WriteLine(c1);
+            //Console.WriteLine(c1);
 
 
         }
